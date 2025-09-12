@@ -12,7 +12,7 @@
 			<!--<class name="rahulshetty.testCases.TC001_UserRegister"/>-->
 			<!--<class name="rahulshetty.testCases.TC002_LoginTest" />-->
 			<!--<class name="rahulshetty.testCases.TC003_LoginDDT" />-->
-			<class name="rahulshetty.testCases.TC003_LoginDDT" />
+			<class name="rahulshetty.testCases.TC002_LoginTest" />
 			
 		</classes>
 	</test> <!--Test -->
